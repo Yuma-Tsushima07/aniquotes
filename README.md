@@ -86,9 +86,9 @@ module.exports = {
 ```json
 {
   quote: "Let's make our past fade into comparison with the present.",
-  anime: 'Bokura ga Ita',
+  anime: "Bokura ga Ita",
   id: 7,
-  name: 'Motoharu Yano'
+  name: "Motoharu Yano"
 }
 ```
 #### Finding quotes by Anime name
