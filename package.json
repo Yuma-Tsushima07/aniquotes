@@ -1,0 +1,16 @@
+{
+  "name": "aniquotes",
+  "version": "1.0.0",
+  "description": "collects anime quotes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "anime",
+    "quotes",
+    "quote"
+  ],
+  "author": "Yuma-Tsushima07",
+  "license": "ISC"
+}
