@@ -1,0 +1,25 @@
+{
+  "name": "aniquotes-npm",
+  "version": "1.0.0",
+  "description": "Grabs anime quotes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yuma-Tsushima07/aniquotes.git"
+  },
+  "keywords": [
+    "anime",
+    "quotes",
+    "quote",
+    "manga"
+  ],
+  "author": "Yuma-Tsushima07",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yuma-Tsushima07/aniquotes/issues"
+  },
+  "homepage": "https://github.com/Yuma-Tsushima07/aniquotes#readme"
+}
