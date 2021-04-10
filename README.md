@@ -62,7 +62,7 @@ console.log(aniquote.randomQuote())
 }
 ```
 ##### Result
-```json
+```
 {
   quote: 'Why do people have to work? I just want to eat and sleep. I should have born as a panda at the zoo.',
   anime: 'Bakuman',
@@ -106,7 +106,7 @@ module.exports = {
 
 ##### Result
 
-```json
+```
 [
   {
     quote: "You're wrong. It's not the world that's messed up; it's those of us in it. Yes, some ghouls walk a path that leaves sorrow in their wake, but just like humans, we can choose a 
@@ -388,7 +388,7 @@ module.exports = {
 
 ##### Result
 
-```json
+```
 [
   {
     quote: 'You are the most important person to me in the whole wide world.',
