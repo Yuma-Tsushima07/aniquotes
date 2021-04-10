@@ -1,6 +1,7 @@
 # aniquotes
 Collects anime quotes for node.js, discord.js !
 Who doesn't like a dose of anime from time to time, maybe a quote to motivate you?
+[![NPM](https://nodei.co/npm/aniquotes-npm.png)](https://npmjs.org/package/aniquotes-npm)
 
 ## Usage
 
