@@ -64,8 +64,8 @@ console.log(aniquote.randomQuote())
 ##### Result
 ```
 {
-  quote: 'Why do people have to work? I just want to eat and sleep. I should have born as a panda at the zoo.',
-  anime: 'Bakuman',
+  "quote": 'Why do people have to work? I just want to eat and sleep. I should have born as a panda at the zoo.',
+  anime": 'Bakuman',
   id: 4136,
   name: 'Kazuya Hiramaru'
 }
@@ -83,7 +83,7 @@ module.exports = {
 ```
 
 ##### Result
-```json
+```
 {
   quote: "Let's make our past fade into comparison with the present.",
   anime: "Bokura ga Ita",
